@@ -14,5 +14,4 @@ Shoppie is a responsive e-commerce website built with React.js. It provides user
 ## Technologies Used
 
 - **Frontend:** React.js, HTML, CSS
-- **Routing:** React Router
 - **Styling:** CSS Modules or Styled Components
